@@ -8,7 +8,7 @@ st.info('Please fill in the below details to get started.')
 
 name = st.text_input('Your Name?')
 email = st.text_input('Your Email Address?')
-phno = st.text_input('Your Phone Number?')
+phno = st.text_input('Your Phone Number? ')
 websiteurl = st.text_input("Your Website's URL?")
 
 info = f'Name: {name}\n\nEmail: {email}\n\nContact: {phno}\n\nWebsite: {websiteurl}'
