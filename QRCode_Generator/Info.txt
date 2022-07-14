@@ -1,0 +1,5 @@
+Hello All, 
+This is a Web Application on QR-Code Generator built using Python and Deployed using Streamlit. Hope you like it.
+
+Note: You need to have a speciific QR-Code Scanner to scan the generated image.
+Further Improvising will take place in near future.
