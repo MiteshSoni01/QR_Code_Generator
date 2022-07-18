@@ -29,5 +29,5 @@ img.save(f'{name}.png') #Saving of Image
 #Downloading Image.
 if (name and email and phno) or (name and websiteurl):
     with open(f"{name}.png", 'rb') as file:
-        st.download_button(label='Your QR Code', data=file, file_name=f'{name}.png', mime='png')
+        st.download_button(label='My QR Code', data=file, file_name=f'{name}.png', mime='png')
 
