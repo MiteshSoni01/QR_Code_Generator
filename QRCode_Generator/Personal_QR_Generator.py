@@ -4,7 +4,7 @@ import qrcode
 
 #Designing the Web App
 st.title('Your Personal QR!') #Title
-st.text('Share your TitBit in a very different way') #Normal Text
+st.text('Share your TitBit in a very different way!') #Normal Text
 st.image('https://www.qrcode-monkey.com/img/default-preview-qr.svg') #Image
 st.info('Please fill in the below details to get started.') #Informative Text Areain
 
